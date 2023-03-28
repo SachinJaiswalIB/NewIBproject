@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NewIBProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewIBProject.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
